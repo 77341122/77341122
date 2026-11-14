@@ -1,43 +1,44 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== ANIMATED HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:4169E1&height=220&section=header&text=Pankaj%20Kumar&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20B.Tech%20Student&descSize=18&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=260&section=header&text=Pankaj%20Kumar&fontSize=62&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Power%20BI%20Developer%20%E2%80%A2%20B.Tech%20Student&descSize=18&descAlignY=60" width="100%" alt="header" />
 
 <a href="https://github.com/77341122">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+business+insights;Building+Power+BI+dashboards;Python+%7C+SQL+%7C+Excel+%7C+Data+Visualization;Open+to+internships+%26+entry-level+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&random=false&width=750&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Pankaj+Kumar;%F0%9F%93%8A+I+turn+raw+data+into+business+insights;%F0%9F%93%88+Building+Power+BI+dashboards;%F0%9F%90%8D+Python+%7C+SQL+%7C+Excel+%7C+Data+Viz;%F0%9F%9A%80+Open+to+internships+%26+entry-level+roles" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=77341122&style=for-the-badge&color=6A0DAD&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/77341122?style=for-the-badge&logo=github&color=4169E1)
-![Repos](https://img.shields.io/github/repositories/77341122?style=for-the-badge&logo=github&color=6A0DAD&label=REPOS)
-![Location](https://img.shields.io/badge/📍-Jaipur,%20India-4B0082?style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=77341122&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="views" />
+<img src="https://img.shields.io/github/followers/77341122?style=for-the-badge&logo=github&color=6366F1" alt="followers" />
+<img src="https://img.shields.io/badge/📍-Jaipur,%20India-7C3AED?style=for-the-badge" alt="location" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 👋 Hi, I'm Pankaj
+## 👨‍💻 About Me
 
-I'm a **B.Tech engineering student from Jaipur** who loves turning messy data into clear, useful insights. I build dashboards, analyse datasets, and I'm always learning something new in the data world.
+<div align="center">
 
-> 💡 *"Good analysis isn't about more charts — it's about answering the right question clearly."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=6366F1&center=true&vCenter=true&width=700&lines=Good+analysis+isn't+about+more+charts;It's+about+answering+the+right+question+clearly" alt="quote" />
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔭 What I'm working on
+### 🔭 Working on
 - 📊 Power BI dashboards & reports
-- 🐍 Data analysis with Python (Pandas, NumPy)
-- 🗄️ Strengthening SQL skills
-- 📈 Excel-based sales analysis
+- 🐍 Python data analysis (Pandas, NumPy)
+- 🗄️ SQL & database fundamentals
+- 📈 Excel sales analysis
 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 What I'm exploring
+### 🌱 Exploring
 - 🤖 Machine Learning basics
 - 🎨 Advanced data visualization
 - 🌐 Full-stack development
@@ -47,60 +48,41 @@ I'm a **B.Tech engineering student from Jaipur** who loves turning messy data in
 </tr>
 </table>
 
-### 🤝 Open To
-`Data Analyst roles` · `Business Intelligence roles` · `Internships` · `Data projects` · `Open-source collaboration`
+**🤝 Open to:** `Data Analyst` · `Business Intelligence` · `Internships` · `Data Projects` · `Open-source`
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages & Web**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mysql,mongodb,nodejs,git,github,vscode,excel&perline=7" alt="skills" />
+</a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br/><br/>
 
-**Data & Analytics**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 📈 Skill Snapshot
 
-| Skill | Level | Progress |
-|:--|:--:|:--|
-| 📊 Power BI | Intermediate | ![](https://geps.dev/progress/75?dangerColor=6A0DAD&warningColor=6A0DAD&successColor=6A0DAD) |
-| 🐍 Python (Pandas, NumPy) | Intermediate | ![](https://geps.dev/progress/70?dangerColor=4169E1&warningColor=4169E1&successColor=4169E1) |
-| 🗄️ SQL | Intermediate | ![](https://geps.dev/progress/65?dangerColor=6A0DAD&warningColor=6A0DAD&successColor=6A0DAD) |
-| 📉 Excel | Intermediate | ![](https://geps.dev/progress/75?dangerColor=4169E1&warningColor=4169E1&successColor=4169E1) |
-| 🤖 Machine Learning | Beginner | ![](https://geps.dev/progress/35?dangerColor=6A0DAD&warningColor=6A0DAD&successColor=6A0DAD) |
+<div align="center">
 
-> *Adjust the percentages to whatever honestly reflects your level.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=500&lines=Power+BI+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91+75%25;Python+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91+70%25;SQL+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91+65%25;Excel+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91+75%25;Machine+Learning+%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+35%25" alt="skills" />
 
----
+</div>
+
+> *Adjust the percentages so they honestly reflect your level.*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🚀 Featured Projects
 
@@ -108,21 +90,18 @@ I'm a **B.Tech engineering student from Jaipur** who loves turning messy data in
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [Retail Sales Analysis – Power BI](https://github.com/77341122/Retail-sales-analysis-powerBI)
-Interactive Power BI dashboard exploring retail sales trends and business performance.
+### 📊 [Retail Sales – Power BI](https://github.com/77341122/Retail-sales-analysis-powerBI)
+Interactive dashboard exploring retail sales trends and performance.
 
-`Power BI` `DAX` `Data Visualization`
-
-<!-- 📸 Add a dashboard screenshot here:
-<img src="link-to-screenshot.png" width="100%" /> -->
+`Power BI` `DAX` `Data Viz`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧬 [Cancer Prediction](https://github.com/77341122/Cancer_Prediction.ipynb)
-Jupyter notebook that explores a cancer dataset and applies analysis / prediction techniques.
+Notebook exploring a cancer dataset with analysis and prediction techniques.
 
-`Python` `Pandas` `Machine Learning`
+`Python` `Pandas` `ML`
 
 </td>
 </tr>
@@ -130,7 +109,7 @@ Jupyter notebook that explores a cancer dataset and applies analysis / predictio
 <td width="50%" valign="top">
 
 ### 🛒 [Retail Sales Data](https://github.com/77341122/RetailSales.csv)
-Sales report dataset used for exploratory analysis and insight generation.
+Sales report dataset used for exploratory analysis.
 
 `Python` `Pandas` `EDA`
 
@@ -138,9 +117,9 @@ Sales report dataset used for exploratory analysis and insight generation.
 <td width="50%" valign="top">
 
 ### 📑 [Sales Analysis – Excel](https://github.com/77341122/sales-excel)
-Sales analysis built in Excel with summaries and reporting.
+Sales summaries and reporting built in Excel.
 
-`Excel` `Pivot Tables` `Reporting`
+`Excel` `Pivot Tables`
 
 </td>
 </tr>
@@ -148,7 +127,7 @@ Sales analysis built in Excel with summaries and reporting.
 <td colspan="2" valign="top">
 
 ### 📈 [RO-KO Dashboard](https://github.com/77341122/RO-KO-dashboard)
-Dashboard project focused on presenting data in a clear, decision-friendly way.
+Dashboard project presenting data in a clear, decision-friendly way.
 
 `Dashboard` `Data Visualization`
 
@@ -156,34 +135,30 @@ Dashboard project focused on presenting data in a clear, decision-friendly way.
 </tr>
 </table>
 
-> 💬 *Tip: add 2–3 line READMEs with screenshots and key findings inside each repository — recruiters love that.*
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 💼 Experience
 
 ### 🧑‍💻 Data Analysis Intern — Grass Pvt. Ltd.
 **Microsoft Power BI & Data Analysis**
 
-- 📊 Built practical skills in Power BI for analysis and visualization
+- 📊 Built practical skills in Power BI analysis and visualization
 - 📈 Learned dashboard and report creation
 - 🔍 Explored datasets to uncover patterns and insights
-- 🧹 Practised data preparation and cleaning workflows
+- 🧹 Practised data preparation and cleaning
 
-`Power BI` `Data Analysis` `Excel` `Python` `SQL`
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=77341122&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=4169E1&text_color=C9D1D9&rank_icon=github" alt="stats" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=77341122&theme=transparent&hide_border=true&ring=8A2BE2&fire=4169E1&currStreakLabel=8A2BE2" alt="streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=77341122&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" alt="stats" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=77341122&theme=transparent&hide_border=true&ring=A855F7&fire=6366F1&currStreakLabel=A855F7" alt="streak" />
 
 <br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77341122&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9" alt="top languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77341122&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="languages" />
 
 <br/><br/>
 
@@ -191,35 +166,30 @@ Dashboard project focused on presenting data in a clear, decision-friendly way.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=77341122&bg_color=0D1117&color=8A2BE2&line=4169E1&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=77341122&bg_color=0D1117&color=A855F7&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="activity" />
 
 </div>
-
----
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/77341122/77341122/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/77341122/77341122/output/github-contribution-grid-snake.svg" alt="snake" />
 
 </div>
-
----
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-77341122-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/77341122)
-<!-- Add your links below by replacing the placeholders -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+<a href="https://github.com/77341122"><img src="https://img.shields.io/badge/GitHub-77341122-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br/>
+<br/><br/>
 
-⭐ *If you like my work, drop a star on a repo — it keeps me motivated!*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=%E2%AD%90+Drop+a+star+if+you+like+my+work!;%F0%9F%A4%9D+Let's+build+something+with+data!" alt="footer text" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,50:6A0DAD,100:4B0082&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&animation=twinkling" width="100%" alt="footer" />
 
 </div>
