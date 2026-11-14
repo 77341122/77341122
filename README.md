@@ -1,195 +1,288 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
-<div align="center">
+<!-- GitHub Profile README for 77341122 -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=260&section=header&text=Pankaj%20Kumar&fontSize=62&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Power%20BI%20Developer%20%E2%80%A2%20B.Tech%20Student&descSize=18&descAlignY=60" width="100%" alt="header" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:4169E1&height=220&section=header&text=PANKAJ%20KUMAR&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
+</p>
 
-<a href="https://github.com/77341122">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&random=false&width=750&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Pankaj+Kumar;%F0%9F%93%8A+I+turn+raw+data+into+business+insights;%F0%9F%93%88+Building+Power+BI+dashboards;%F0%9F%90%8D+Python+%7C+SQL+%7C+Excel+%7C+Data+Viz;%F0%9F%9A%80+Open+to+internships+%26+entry-level+roles" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=B.Tech+Student+%7C+Data+Analytics;Power+BI+%7C+Data+Visualization;Python+%7C+SQL+%7C+Data+Analysis;Building+Data-Driven+Solutions" alt="Typing SVG"/>
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-Engineering-6A0DAD?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data-Analytics-4B0082?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Analysis-4169E1?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📍-Jaipur%2C%20India-6A0DAD?style=for-the-badge"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=77341122&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="views" />
-<img src="https://img.shields.io/github/followers/77341122?style=for-the-badge&logo=github&color=6366F1" alt="followers" />
-<img src="https://img.shields.io/badge/📍-Jaipur,%20India-7C3AED?style=for-the-badge" alt="location" />
+<p align="center">
+  <a href="https://github.com/77341122">
+    <img src="https://img.shields.io/badge/GitHub-77341122-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/77341122?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-5-6A0DAD?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/77341122?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-1-4169E1?style=for-the-badge&logo=github"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=77341122&style=for-the-badge&color=6A0DAD&label=PROFILE+VIEWS"/>
+</p>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 ## 👨‍💻 About Me
 
-<div align="center">
+I am **Pankaj Kumar**, a B.Tech engineering student from **Jaipur, Rajasthan**, with a strong interest in **Data Analytics, Business Intelligence, Software Engineering, and technology-driven problem solving**.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=6366F1&center=true&vCenter=true&width=700&lines=Good+analysis+isn't+about+more+charts;It's+about+answering+the+right+question+clearly" alt="quote" />
+I enjoy transforming raw data into meaningful insights and building practical solutions using modern data-analysis tools. My current focus is on developing strong technical skills in **Power BI, data visualization, programming, databases, and analytical thinking**.
 
-</div>
+I believe good engineering is not only about writing code — it is about understanding the problem, working with data, building efficient solutions, and creating measurable value.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### What I Focus On
 
-### 🔭 Working on
-- 📊 Power BI dashboards & reports
-- 🐍 Python data analysis (Pandas, NumPy)
+- 📊 Data Analysis & Business Intelligence
+- 📈 Interactive dashboards and data visualization
+- 🧠 Analytical problem solving
+- 💻 Software & application development
+- 🐍 Python-based data analysis
 - 🗄️ SQL & database fundamentals
-- 📈 Excel sales analysis
+- 📚 Continuous technical learning
 
-</td>
-<td width="50%" valign="top">
+### Open To
 
-### 🌱 Exploring
-- 🤖 Machine Learning basics
-- 🎨 Advanced data visualization
-- 🌐 Full-stack development
-- 🧠 Artificial Intelligence
+- Data Analyst opportunities
+- Business Intelligence roles
+- Software Engineering opportunities
+- Data-driven projects
+- Internships & entry-level opportunities
+- Open-source collaboration
 
-</td>
-</tr>
-</table>
-
-**🤝 Open to:** `Data Analyst` · `Business Intelligence` · `Internships` · `Data Projects` · `Open-source`
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### Languages
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mysql,mongodb,nodejs,git,github,vscode,excel&perline=7" alt="skills" />
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js" />
+</p>
 
-<br/><br/>
+### Data & Analytics
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
-</div>
+### Frontend
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-## 📈 Skill Snapshot
+### Backend & Databases
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=500&lines=Power+BI+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91+75%25;Python+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91+70%25;SQL+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91+65%25;Excel+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91+75%25;Machine+Learning+%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+35%25" alt="skills" />
+### Cloud, DevOps & Tooling
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-> *Adjust the percentages so they honestly reflect your level.*
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+## 🤖 AI / ML & Data Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Data Analysis | Intermediate | Data cleaning, exploration and insight generation |
+| Business Intelligence | Intermediate | Dashboard development and analytical reporting |
+| Power BI | Intermediate | Interactive dashboards, reports and visualization |
+| Python | Intermediate | Programming and data-analysis workflows |
+| Pandas & NumPy | Intermediate | Data manipulation and numerical analysis |
+| SQL | Intermediate | Data querying and database fundamentals |
+| Data Visualization | Intermediate | Charts, dashboards and visual storytelling |
+| Machine Learning | Beginner | Exploring ML concepts and practical applications |
+
+---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details>
+<summary><b>📊 Retail Sales Analysis</b></summary>
 
-### 📊 [Retail Sales – Power BI](https://github.com/77341122/Retail-sales-analysis-powerBI)
-Interactive dashboard exploring retail sales trends and performance.
+### Retail Sales Data Analysis
 
-`Power BI` `DAX` `Data Viz`
+A data-analysis project focused on exploring retail sales information and extracting meaningful business insights from structured sales data.
 
-</td>
-<td width="50%" valign="top">
+| Attribute | Details |
+|---|---|
+| **Stack** | Python, Pandas, Data Analysis |
+| **Scale** | Retail sales dataset |
+| **Performance** | Structured data analysis workflow |
+| **Security** | Dataset-based analytical workflow |
+| **Impact** | Supports understanding of sales trends and business performance |
+| **Repository** | [View on GitHub](https://github.com/77341122) |
 
-### 🧬 [Cancer Prediction](https://github.com/77341122/Cancer_Prediction.ipynb)
-Notebook exploring a cancer dataset with analysis and prediction techniques.
+### Professional Overview
 
-`Python` `Pandas` `ML`
+The project demonstrates practical experience with data-oriented workflows, including examining structured sales information, identifying patterns, and presenting analytical findings.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</details>
 
-### 🛒 [Retail Sales Data](https://github.com/77341122/RetailSales.csv)
-Sales report dataset used for exploratory analysis.
+---
 
-`Python` `Pandas` `EDA`
+<details>
+<summary><b>🧬 Cancer Data Analysis</b></summary>
 
-</td>
-<td width="50%" valign="top">
+### Cancer Dataset Analysis
 
-### 📑 [Sales Analysis – Excel](https://github.com/77341122/sales-excel)
-Sales summaries and reporting built in Excel.
+A data-analysis project based on cancer-related structured data, focused on understanding datasets and applying analytical techniques to derive meaningful information.
 
-`Excel` `Pivot Tables`
+| Attribute | Details |
+|---|---|
+| **Stack** | Python, Pandas, Data Analysis |
+| **Scale** | Cancer-related dataset |
+| **Performance** | Structured analytical workflow |
+| **Security** | Dataset-based analysis |
+| **Impact** | Practical exploration of healthcare-related data |
+| **Repository** | [View on GitHub](https://github.com/77341122) |
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+### Professional Overview
 
-### 📈 [RO-KO Dashboard](https://github.com/77341122/RO-KO-dashboard)
-Dashboard project presenting data in a clear, decision-friendly way.
+This project represents practical exposure to working with structured datasets and applying analytical thinking to real-world data domains.
 
-`Dashboard` `Data Visualization`
+</details>
 
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 ## 💼 Experience
 
-### 🧑‍💻 Data Analysis Intern — Grass Pvt. Ltd.
-**Microsoft Power BI & Data Analysis**
+### Data Analysis Intern — Grass Pvt. Ltd.
 
-- 📊 Built practical skills in Power BI analysis and visualization
-- 📈 Learned dashboard and report creation
-- 🔍 Explored datasets to uncover patterns and insights
-- 🧹 Practised data preparation and cleaning
+**Internship — Microsoft Power BI & Data Analysis**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+Worked on developing practical knowledge of **Microsoft Power BI and data-analysis workflows**, with emphasis on transforming data into understandable visual insights.
 
-## 📊 GitHub Stats
+### Scope of Work
 
-<div align="center">
+- 📊 Worked with Power BI for data analysis and visualization.
+- 📈 Developed understanding of dashboard and report creation.
+- 🔍 Explored datasets to identify useful patterns and insights.
+- 🧹 Practiced data preparation and analytical workflows.
+- 💡 Applied data-driven problem-solving techniques.
+- 📚 Strengthened practical knowledge of Business Intelligence.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=77341122&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" alt="stats" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=77341122&theme=transparent&hide_border=true&ring=A855F7&fire=6366F1&currStreakLabel=A855F7" alt="streak" />
+**Skills:** `Power BI` `Data Analysis` `Data Visualization` `Excel` `Python` `SQL`
 
-<br/>
+---
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77341122&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="languages" />
+## 🏆 Achievements
 
-<br/><br/>
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=77341122&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies" />
+| Recognition | Details |
+|---|---|
+| 🎓 Engineering Education | Pursuing B.Tech Engineering |
+| 📊 Data Analytics | Practical experience with Power BI and data analysis |
+| 💻 Programming | Developing programming and software engineering skills |
+| 📈 Business Intelligence | Building knowledge of dashboarding and visualization |
+| 🚀 Continuous Learning | Consistently expanding technical and analytical capabilities |
 
-<br/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=77341122&bg_color=0D1117&color=A855F7&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="activity" />
+---
 
-</div>
+## 📜 Certifications
+
+### Microsoft / Data & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft-Power%20BI-6A0DAD?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data-Analytics-4169E1?style=for-the-badge"/>
+</p>
+
+> Additional verified certifications can be added as they are available.
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://github.com/77341122">
+    <img src="https://img.shields.io/badge/GitHub-77341122-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analytics-6A0DAD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-4169E1?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=77341122&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=4169E1&text_color=C9D1D9&rank_icon=github" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=77341122&theme=transparent&hide_border=true&ring=8A2BE2&fire=4169E1&currStreakLabel=8A2BE2" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77341122&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9" height="180"/>
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=77341122&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=77341122&bg_color=0D1117&color=8A2BE2&line=4169E1&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/77341122/77341122/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/77341122/77341122/output/github-contribution-grid-snake.svg" alt="snake" />
+---
 
-</div>
+## 🎯 Current Focus
 
-## 📫 Let's Connect
+```yaml
+name: Pankaj Kumar
+location: Jaipur, Rajasthan, India
 
-<div align="center">
+learning:
+  - Data Analytics
+  - Power BI
+  - Python
+  - SQL
+  - Software Engineering
 
-<a href="https://github.com/77341122"><img src="https://img.shields.io/badge/GitHub-77341122-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+building:
+  - Data Analysis Projects
+  - Business Intelligence Dashboards
+  - Practical Software Projects
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=%E2%AD%90+Drop+a+star+if+you+like+my+work!;%F0%9F%A4%9D+Let's+build+something+with+data!" alt="footer text" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&animation=twinkling" width="100%" alt="footer" />
-
-</div>
+exploring:
+  - Artificial Intelligence
+  - Ma
